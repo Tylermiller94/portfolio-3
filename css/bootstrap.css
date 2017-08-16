@@ -84,12 +84,12 @@ sub {
   bottom: -.25em;
 }
 img {
-    width: 320px;
+    width: 250px;
     padding: 10px;
     border: 10px solid gray;
     margin: 0;
-    float: right;
-} ;
+    float: left;
+}
 }
 svg:not(:root) {
   overflow: hidden;
